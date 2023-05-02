@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783038164906",
+    "project_id": "signin-login-a6eaf",
+    "storage_bucket": "signin-login-a6eaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783038164906:android:fb0e006d9e62e1a78a45d3",
+        "android_client_info": {
+          "package_name": "com.example.signinlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783038164906-5aa0uefsm065vouikl87480325inc1ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9mNUiSoKgcuSTC4H5VRnAzeDwUbmmbY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783038164906-5aa0uefsm065vouikl87480325inc1ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
